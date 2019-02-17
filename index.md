@@ -14,7 +14,6 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 
 ## Tasks
 
-
 ### Padawans tasks:
 
 - [**FancyCalc**](https://github.com/lenavakr/FancyCalc)
@@ -22,7 +21,9 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 - [**PadawansTask2**](https://github.com/lenavakr/PadawansTask2)
 - [**PadawansTask3**](https://github.com/lenavakr/PadawansTask3)
 
-### `[Codewars profile]`(https://www.codewars.com/users/lenavakr)
+### Codewars tasks:
 
-### Demo project
+- [**Codewars profile**](https://www.codewars.com/users/lenavakr)
+
+### Demo project:
 
