@@ -14,7 +14,6 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 
 ## Tasks
 
-```markdown
 
 ### Padawans tasks:
 
@@ -26,4 +25,4 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 ### `[Codewars profile]`(https://www.codewars.com/users/lenavakr)
 
 ### Demo project
-```
+
