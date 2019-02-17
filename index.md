@@ -7,6 +7,10 @@ My best quality are patience. I trying to learn from past mistakes.
 I am an active and energetic person. I think I have got what it takes to achieve my goals. 
 I am a hard worker when it comes to what I am interested in. 
 
+## Interests
+
+As for my interests, I devote much time to exploring programming. 
+In my free time I usually read a book, and go to the swimming-pool twice a week.
 
 ## Tasks
 
@@ -15,8 +19,11 @@ I am a hard worker when it comes to what I am interested in.
 ### Padawans tasks:
 
 - [**FancyCalc**](https://github.com/lenavakr/FancyCalc)
+- [**PadawansTask1**](https://github.com/lenavakr/PadawansTask1)
+- [**PadawansTask2**](https://github.com/lenavakr/PadawansTask2)
+- [**PadawansTask3**](https://github.com/lenavakr/PadawansTask3)
 
-### [Codewars profile](https://www.codewars.com/users/lenavakr)
+### '[Codewars profile]'(https://www.codewars.com/users/lenavakr)
 
 ### Demo project
 
