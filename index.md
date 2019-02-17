@@ -20,6 +20,7 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 - [**PadawansTask1**](https://github.com/lenavakr/PadawansTask1)
 - [**PadawansTask2**](https://github.com/lenavakr/PadawansTask2)
 - [**PadawansTask3**](https://github.com/lenavakr/PadawansTask3)
+- [**PadawansTask4**](https://github.com/lenavakr/PadawansTask4)
 
 ### Codewars tasks:
 
