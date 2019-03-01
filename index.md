@@ -24,6 +24,13 @@ In my free time I usually read a book, and go to the swimming-pool twice a week.
 - [**PadawansTask5**](https://github.com/lenavakr/PadawansTask5)
 - [**PadawansTask6**](https://github.com/lenavakr/PadawansTask6)
 - [**PadawansTask7**](https://github.com/lenavakr/PadawansTask7)
+- [**PadawansTask8**](https://github.com/lenavakr/PadawansTask8)
+- [**PadawansTask9**](https://github.com/lenavakr/PadawansTask9)
+- [**PadawansTask10**](https://github.com/lenavakr/PadawansTask10)
+- [**PadawansTask11**](https://github.com/lenavakr/PadawansTask11)
+- [**PadawansTask12**](https://github.com/lenavakr/PadawansTask12)
+- [**PadawansTask13**](https://github.com/lenavakr/PadawansTask13)
+- [**PadawansTask15**](https://github.com/lenavakr/PadawansTask15)
 
 ### Codewars tasks:
 
